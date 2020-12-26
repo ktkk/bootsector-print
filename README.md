@@ -12,5 +12,5 @@ $ hexdump -C bootsector.img
 ```
 
 ## Running
-I use VirtualBox:
+<p>I use VirtualBox:</p>
 <img src="https://github.com/ktkk/bootsector-print/blob/master/virtualbox.png">
